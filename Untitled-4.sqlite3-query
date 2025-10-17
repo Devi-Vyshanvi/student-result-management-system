@@ -1,0 +1,5 @@
+-- database: ./results.db
+
+INSERT INTO students (student_id,roll,name,class) VALUES (101,20,"Abhishyanth","A"),
+(102,10,"Paardhiv","A"),
+(103,30,"Harshith","A");
